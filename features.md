@@ -8,5 +8,5 @@ Dadurch ist es möglich schnel das zu lesen was man lesen möchte.
 
 ## Links
 
-- [Einrichtung](docs/setup.md)
+- [Einrichtung](setup.md)
 - [Thema](index.md)
