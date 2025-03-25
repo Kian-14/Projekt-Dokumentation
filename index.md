@@ -17,5 +17,5 @@ Materie, Gas, Flüssige, Lebewessen, alles besteht aus Atomen
 
 ## Links
 
-- [Einrichtung](docs/setup.md)
-- [Funktionen](docs/features.md)
+- [Einrichtung](setup.md)
+- [Funktionen](features.md)
