@@ -10,4 +10,4 @@ Diese und die feature Datei befinden sich auch auf einem seperatem Ordner.
 ## Links
 
 - [Thema](index.md)
-- [Funktionen](docs/features.md)
+- [Funktionen](features.md)
